@@ -4,9 +4,11 @@
 
 # Otimizador de Prompt
 
+## Demonstração
+
 https://github.com/user-attachments/assets/7573082b-55b1-4029-bd59-8aef29e3f401
 
-## Demonstração## Sobre o projeto
+## Sobre o projeto
 
 O **Otimizador de Prompt** é uma aplicação web desenvolvida para aprimorar e refinar prompts. Utilizando o poder da API Google Gemini, esta ferramenta 
 analisa o prompt inicial do usuário e sugere versões otimizadas, visando gerar respostas mais precisas, relevantes e criativas.
